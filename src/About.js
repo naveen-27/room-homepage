@@ -5,7 +5,7 @@ class About extends Component {
     return (
       <div className="About">
         <h1>ABOUT OUR FURNITURE</h1>
-        <p>
+        <p className="text-muted">
           Our multifuncitonal collection blends and function to suit your
           individual taste. Make each room unique, or pick a cohesive theme that
           best express your intrests and what inspires you. Find the furtinure
