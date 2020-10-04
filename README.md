@@ -1,6 +1,6 @@
 # Room Homepage - Frontendmentor.io
 
-This single page application [IP Address Tracker](https://room-homepage-eight.vercel.app/) is a solution to the Frontendmentor.io challenge. 
+This single page application [Room Homepage](https://room-homepage-eight.vercel.app/) is a solution to the Frontendmentor.io challenge. 
 
 ## MADE WITH
 
@@ -10,7 +10,7 @@ This single page application [IP Address Tracker](https://room-homepage-eight.ve
 
 ## DESIGN
 
-![Design preview for the IP Address Tracker coding challenge](./desktop-design.jpg)
+![Design preview for the IP Address Tracker coding challenge](./desktop-preview.jpg)
 
 ## TO RUN LOCALLY
 
