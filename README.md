@@ -19,5 +19,4 @@ This single page application [Room Homepage](https://room-homepage-eight.vercel.
 1. Install create-react-app CLI
 1. Clone the repository - run ```git clone https://github.com/naveen-27/ip-address-tracker.git```
 1. Run ```npm install```
-1. Store your API keys in a ```.env``` file as specified in ```.env_sample``` file
 1. Then run ```npm start```
