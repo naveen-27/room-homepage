@@ -10,7 +10,7 @@ This single page application [Room Homepage](https://room-homepage-eight.vercel.
 
 ## DESIGN
 
-![Design preview for the IP Address Tracker coding challenge](./desktop-preview.jpg)
+![Design preview for the Room Homepage coding challenge](./desktop-preview.jpg)
 
 ## TO RUN LOCALLY
 
