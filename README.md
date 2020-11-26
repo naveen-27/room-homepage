@@ -17,6 +17,6 @@ This single page application [Room Homepage](https://room-homepage-eight.vercel.
 1. Signup for google-maps-embed API
 1. Signup for Ipify API
 1. Install create-react-app CLI
-1. Clone the repository - run ```git clone https://github.com/naveen-27/ip-address-tracker.git```
+1. Clone the repository - run ```git clone https://github.com/naveen-27/room-homepage.git```
 1. Run ```npm install```
 1. Then run ```npm start```
